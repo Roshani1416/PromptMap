@@ -61,3 +61,39 @@ To start the FastAPI backend, run the following command inside the backend/ fold
 uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 The API will be available at http://localhost:8000
 
+---
+
+##📸 How to Use PromptMap
+📝 Step 1: Enter a Keyword or Concept
+Type in a word or concept, such as "fantasy castle" or "cyberpunk city".
+
+🏆 Step 2: Get Prompt Suggestions
+PromptMap will suggest detailed, AI-optimized prompts based on your keyword.
+
+🎨 Step 3: Select or Customize Your Prompt
+Choose a suggested prompt or enter your own custom text to refine your image.
+
+🔄 Step 4: Generate an AI Image
+Click "Generate", and the AI model will create a high-quality image based on your prompt.
+
+💾 Step 5: Save or Refine Your Image
+Download the image or tweak the prompt to regenerate a more refined version.
+
+📜 License
+This project is licensed under the MIT License, meaning it is free to use, modify, and distribute.
+
+🏗️ Contributing
+Contributions are welcome! Feel free to submit issues or pull requests to improve PromptMap.
+
+To contribute:
+
+Fork the repository
+Create a new branch (git checkout -b feature-branch)
+Make your changes
+Commit and push your changes (git commit -m "Added new feature")
+Submit a pull request 🚀
+
+🌟 Acknowledgments
+Special thanks to the OpenAI community for inspiring AI-driven projects.
+Built with love ❤️ and passion for AI, creativity, and technology.
+
