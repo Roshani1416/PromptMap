@@ -30,7 +30,7 @@ PromptMap is built using a **modern and optimized technology stack**, ensuring f
 
 ---
 
-## 🚀 Installation & Setup  
+### 🚀 Installation & Setup  
 
 Follow these steps to set up and run PromptMap locally:  
 
