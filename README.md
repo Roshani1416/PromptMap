@@ -37,23 +37,27 @@ PromptMap/ │── backend/ # Backend (FastAPI & AI Models)
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/your-username/PromptMap.git  
-cd PromptMap
+cd PromptMap ```
 
-2️⃣ Install Backend Dependencies
-pip install fastapi uvicorn torch diffusers numpy pydantic
+### 2️⃣ Install Backend Dependencies
+```bash
+pip install fastapi uvicorn torch diffusers numpy pydantic ```
 
 3️⃣ Install Frontend Dependencies
-npm install next react react-dom tailwindcss @tailwindcss/postcss @types/react @types/node eslint eslint-config-next
-4️⃣ Start the Development Server
+```bash
+npm install next react react-dom tailwindcss @tailwindcss/postcss @types/react @types/node eslint eslint-config-next ```
 
+
+4️⃣ Start the Development Server
 ✅ Start the Frontend (Next.js)
+```bash
 npm run dev
 Frontend runs on: http://localhost:3000
 
 ✅ Start the Backend (FastAPI)
-
-uvicorn main:app --host 0.0.0.0 --port 8000 --reload
-Backend runs on: http://localhost:8000
+```bash
+uvicorn main:app --host 0.0.0.0 --port 8000 --reload ```
+Backend runs on: http://localhost:8000 
 
 🔥 Usage
 📝 How to Use PromptMap
