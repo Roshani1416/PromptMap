@@ -41,7 +41,7 @@ First, clone the GitHub repository and navigate into the project folder:
 git clone https://github.com/your-username/PromptMap.git
 cd PromptMap
 
-###2️⃣ Install Dependencies
+##2️⃣ Install Dependencies
 📌 Install Backend Dependencies
 The backend is built using FastAPI and requires the following dependencies:
 pip install fastapi uvicorn torch diffusers numpy pydantic
@@ -50,7 +50,7 @@ pip install fastapi uvicorn torch diffusers numpy pydantic
 The frontend is developed using Next.js and requires the following dependencies:
 npm install next react react-dom tailwindcss @tailwindcss/postcss @types/react @types/node eslint eslint-config-next
 
-###3️⃣ Start the Development Server
+##3️⃣ Start the Development Server
 🚀 Start the Frontend (Next.js)
 To run the frontend, navigate to the frontend/ folder and start the Next.js server:
 npm run dev
